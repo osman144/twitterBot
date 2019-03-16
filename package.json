@@ -1,0 +1,19 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "twitter bot favorites tweets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osman144/twitterBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osman144/twitterBot/issues"
+  },
+  "homepage": "https://github.com/osman144/twitterBot#readme"
+}
