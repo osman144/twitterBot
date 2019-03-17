@@ -1,8 +1,8 @@
 {
   "name": "twitterbot",
   "version": "1.0.0",
-  "description": "twitter bot favorites tweets",
-  "main": "index.js",
+  "description": "Nodejs Twitter Bot",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/osman144/twitterBot/issues"
   },
-  "homepage": "https://github.com/osman144/twitterBot#readme"
+  "homepage": "https://github.com/osman144/twitterBot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
 }
